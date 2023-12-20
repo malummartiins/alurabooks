@@ -12,7 +12,6 @@ https://malummartiins.github.io/alurabooks/
 
 Projeto implementado direto do Figma, foi o projeto final da formação em HTML e CSS para projetos web da Alura.
 
-
 ## Descrição de alguns pontos do projeto final:
 
 - Primeira parte com o desenvolvimento do AluraBooks mobile - com header com menu hambúrguer;
@@ -26,4 +25,8 @@ Projeto implementado direto do Figma, foi o projeto final da formação em HTML 
 - Alteração do layout para tablet (1024px) com media queries. (com ênfase no footer);
 
 - Alteração final para layout desktop (1728px);
+
+## Demonstração:
+
+https://github.com/malummartiins/alurabooks/assets/130713333/c9adac72-7c6e-41c0-9f81-885b5c7ca67d
 
